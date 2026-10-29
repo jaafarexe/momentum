@@ -1,0 +1,6 @@
+{
+  "name": "Daily Momentum Habit Tracker",
+  "description": "A clean, modern habit tracker designed to build lasting daily momentum with streak counters, interactive calendar view, weekly analytics, and customizable habits in a fresh green and white aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
